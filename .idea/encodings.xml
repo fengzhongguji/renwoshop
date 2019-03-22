@@ -1,4 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
-  <component name="Encoding" addBOMForNewFiles="with NO BOM" />
+  <component name="Encoding" addBOMForNewFiles="with NO BOM">
+    <file url="file://$PROJECT_DIR$" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/renwo-common" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/renwo-eureka" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/renwo-goods" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/renwo-member" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/renwo-message" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/renwo-order" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/renwo-pay" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/renwoshro-api" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/renwoshro-api/renwo-goods-api" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/renwoshro-api/renwo-member-api" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/renwoshro-api/renwo-message-api" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/renwoshro-api/renwo-order-api" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/renwoshro-api/renwo-pay-api" charset="UTF-8" />
+  </component>
 </project>
