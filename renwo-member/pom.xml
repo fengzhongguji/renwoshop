@@ -11,5 +11,11 @@
 
     <artifactId>renwo-member</artifactId>
 
-
+    <dependencies>
+        <dependency>
+            <artifactId>renwo-member-api</artifactId>
+            <groupId>com.fengzhongguji</groupId>
+            <version>1.0-SNAPSHOT</version>
+        </dependency>
+    </dependencies>
 </project>

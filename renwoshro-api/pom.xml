@@ -23,7 +23,7 @@
 
         <!-- 集成Common包 -->
         <dependency>
-            <artifactId>renwoshop</artifactId>
+            <artifactId>renwo-common</artifactId>
             <groupId>com.fengzhongguji</groupId>
             <version>1.0-SNAPSHOT</version>
         </dependency>
