@@ -17,6 +17,7 @@
         <module>renwo-order</module>
         <module>renwo-goods</module>
         <module>renwo-pay</module>
+        <module>renwo-auth</module>
 
     </modules>
 
